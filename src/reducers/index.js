@@ -1,0 +1,1 @@
+export {default as EmployeeReducer} from './employee.reducer';

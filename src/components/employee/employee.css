@@ -1,0 +1,38 @@
+.employee {
+    flex-grow: 1;
+    max-width: 20%;
+    min-width: 20%;
+    border: 1px solid #CCC;
+    margin:20px;
+}
+.employee img {
+    height:150px;
+    width:100%;
+    background-color: #CCC;
+}
+.employee .info {
+    padding:20px;
+    text-align: left;
+    font-size: 12px;
+}
+.icon {
+    margin-right:1rem;
+}
+.red {
+    color: red;
+}
+.white {
+    color: white;
+}
+.action {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    background-color: #CCC;
+}
+.info a {
+    display: inline-block;
+    max-width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

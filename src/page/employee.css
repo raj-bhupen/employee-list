@@ -1,0 +1,8 @@
+.employee-container {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;  
+    flex-wrap: wrap;
+   
+}
